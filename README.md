@@ -17,3 +17,6 @@ This will also promote secure file sharing between users. If all conversions are
 The expected outcome is for the script to list all readable PNG/JPEG files in the directory.
 Then it will convert the files to the other.
 For the sake of the script, I did a JPEG to PNG.
+Please see final 1.png to view directory with JPEGs.
+Then final 2.png to view directory with orignal JPEG and new PNG.
+Code was executed on PyCharm.
